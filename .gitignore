@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
+<<<<<<< HEAD
 *.classpath
+=======
+>>>>>>> branch 'master' of https://github.com/ehdaudrnr3/algorithm.git
 
 # Log file
 *.log
